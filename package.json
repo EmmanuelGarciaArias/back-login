@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "nodemon index",
     "start": "node index"
-   // "heroku-postbuild":"npm run build"
   },
   "keywords": [],
   "author": "",
